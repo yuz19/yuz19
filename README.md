@@ -1,4 +1,4 @@
-Hi there 👋
+**Hi there** 👋
 I'm [Your Name], a passionate web developer who loves creating websites and learning new things. I'm always seeking to improve my skills and stay up-to-date with the latest web development technologies.
 
 What I'm Currently Learning
